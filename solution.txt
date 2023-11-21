@@ -1,0 +1,3 @@
+93a5d093c6ee431045aac225c10aa2875cc5963d   is the productCatalogue.js Hash
+
+Used 93a5d093c to show snapshot of code
